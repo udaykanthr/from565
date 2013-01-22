@@ -1,12 +1,13 @@
-from565
+From565
 =======
 
-converts rle android boot images to png format
+Converts rle android boot images to png format
 
 BUILD
 -----
 change your <filename>.rle to logo.rle and replace the current file.
 and execute the below command.
+<br/>
 make rletopng
 
 ## Credits
