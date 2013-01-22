@@ -2,13 +2,24 @@ From565
 =======
 
 Converts rle android boot images to png format
+And also converts png to rle used for android.
 
 BUILD
 -----
-change your <filename>.rle to logo.rle and replace the current file.
+Creating PNG file:<br/>
+Change your <filename>.rle to logo.rle and replace the current file.
 and execute the below command.
 <br/>
-make rletopng
+make rletopng or make
+
+Creating RLE file from png:<br/>
+Change your <filename>.png to mylogo.png and replace the current file.
+and execute the below command.
+<br/>
+make pngtorle
+
+NOTE: 'make clean' will remove all the generated file for fresh build.
+
 
 ## Credits
 zebarbu - original author.
