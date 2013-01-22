@@ -22,5 +22,5 @@ NOTE: 'make clean' will remove all the generated file for fresh build.
 
 
 ## Credits
-zebarbu - original author.
+zebarbu - original author.(only for from565.c file. i.e rle to png conversion.)
 Referenced from : http://forum.xda-developers.com/showthread.php?t=448804
